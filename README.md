@@ -817,6 +817,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [S2 geometry](https://github.com/golang/geo) - S2 geometry library in Go.
 * [Tile38](https://github.com/tidwall/tile38) - Geolocation DB with spatial index and realtime geofencing.
 * [WGS84](https://github.com/wroge/wgs84) - Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM).
+* [UTM](https://github.com/im7mortal/UTM) - Bidirectional UTM-WGS84 converter.
 
 ## Go Compilers
 
